@@ -12,7 +12,13 @@ Task list:
     * checkboxes, their content and links
     * email format
  */
-
+describe('Something about radio buttons', () => {
+    it('Radio buttons and its content', () => {
+        
+        
+    });
+    
+});
 
 /*
 BONUS TASK: add functional tests for registration form 3
